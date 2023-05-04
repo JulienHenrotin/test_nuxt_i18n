@@ -1,0 +1,5 @@
+{
+    "hello": "bonjour {param}",
+    "description": "{start} description en français"
+  }
+  
